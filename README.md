@@ -9,7 +9,7 @@
 
 | ROM name  | Device |
 | --- | --- |
-| Arrow OS  | [All Exynos7870](https://google.com)  |
+| Arrow OS  | [`J6lte`](https://google.com)  |
 
 ### ANDROID 11
 
