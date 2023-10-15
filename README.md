@@ -4,50 +4,42 @@
 
 <br>
 <br>
-<div align="center">
-   <h2>ANDROID 12</h2>
-  
+
+### ANDROID 12
+
 | ROM name  | Device |
 | --- | --- |
-| Arrow OS  | <a href="google.com">All Exynos7870</a>  |
+| Arrow OS  | [All Exynos7870](https://google.com)  |
 
-</div>
-<br>
-<div align="center">
-  <h2>ANDROID 11</h2>
-    
+### ANDROID 11
+
 | ROM name  | Device |
 | --- | --- |
-| CrDroid OS | <a href="google.com">All Exynos7870</a>  |
-| Arrow OS  | <a href="google.com">All Exynos7870</a>  |
-| Dot OS  | <a href="google.com">All Exynos7870</a>  |
-| Pixel Experience+  | <a href="google.com">All Exynos7870</a>  |
-| Magnus OS  | <a href="google.com">All Exynos7870</a>  |
-| Kasumi OS  | <a href="google.com">All Exynos7870</a>  |
-| Nusantara OS  | <a href="google.com">All Exynos7870</a>  |
-| Project Sakura OS | <a href="google.com">All Exynos7870</a>  |
-| Lineage OS | <a href="google.com">All Exynos7870</a>  |
-| Cipher OS  | <a href="google.com">All Exynos7870</a>  |
-| Stellar OS  | <a href="google.com">All Exynos7870</a>  |
-| /e/ foundation OS  | <a href="google.com">All Exynos7870</a>  |
-| Arcane OS  | <a href="google.com">All Exynos7870</a>  |
-| Superior OS  | <a href="google.com">All Exynos7870</a>  |
-| Ancient OS  | <a href="google.com">All Exynos7870</a>  |
-| Octavi OS  | <a href="google.com">All Exynos7870</a>  |
-| Hycon OS  | <a href="google.com">All Exynos7870</a>  |
-| Bliss OS  | <a href="google.com">All Exynos7870</a>  |
-| Legion OS  | <a href="google.com">All Exynos7870</a>  |
+| CrDroid OS | [All Exynos7870](https://google.com)  |
+| Arrow OS  | [All Exynos7870](https://google.com)  |
+| Dot OS  | [All Exynos7870](https://google.com)  |
+| Pixel Experience+  | [All Exynos7870](https://google.com)  |
+| Magnus OS  | [All Exynos7870](https://google.com)  |
+| Kasumi OS  | [All Exynos7870](https://google.com)  |
+| Nusantara OS  | [All Exynos7870](https://google.com)  |
+| Project Sakura OS | [All Exynos7870](https://google.com)  |
+| Lineage OS | [All Exynos7870](https://google.com)  |
+| Cipher OS  | [All Exynos7870](https://google.com)  |
+| Stellar OS  | [All Exynos7870](https://google.com)  |
+| /e/ foundation OS  | [All Exynos7870](https://google.com)  |
+| Arcane OS  | [All Exynos7870](https://google.com)  |
+| Superior OS  | [All Exynos7870](https://google.com)  |
+| Ancient OS  | [All Exynos7870](https://google.com)  |
+| Octavi OS  | [All Exynos7870](https://google.com)  |
+| Hycon OS  | [All Exynos7870](https://google.com)  |
+| Bliss OS  | [All Exynos7870](https://google.com)  |
+| Legion OS  | [All Exynos7870](https://google.com)  |
 
-</div>
-<br>
-<div align="center">
-   <h2>ANDROID 10</h2>
-  
+### ANDROID 10
+
 | ROM name  | Device |
 | --- | --- |
-| Caos OS | <a href="google.com">All Exynos7870</a>  |
-| Arrow OS  | <a href="google.com">All Exynos7870</a>  |
-| Lineage OS  | <a href="google.com">All Exynos7870</a>  |
-| Havoc OS  | <a href="google.com">All Exynos7870</a>  |
-
-</div>
+| Caos OS | [All Exynos7870](https://google.com)  |
+| Arrow OS  | [All Exynos7870](https://google.com)  |
+| Lineage OS  | [All Exynos7870](https://google.com)  |
+| Havoc OS  | [All Exynos7870](https://google.com)  |
