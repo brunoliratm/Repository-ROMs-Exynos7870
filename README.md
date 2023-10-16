@@ -1,7 +1,7 @@
 <h2 align="center">This repository contains a collection of custom ROMs Copiled/Ported by me for devices with exynos 7870.
 <h4 align="center">
 
-`J6lte, J5y17lte, J7y17lte, J7xelte, J7velte`
+`J6lte, J5y17lte, J7y17lte, J7xelte, J7velte, on7xelte, a3y17lte`
   
 </h4>
 
