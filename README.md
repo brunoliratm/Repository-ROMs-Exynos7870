@@ -1,14 +1,52 @@
-<h2 align="center">This repository contains a collection of custom ROMs Copiled/Ported by me for devices with exynos 7870.
-<h4 align="center">
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient" />
 
-`J6lte, J5y17lte, J7y17lte, J7xelte, J7velte, on7xelte, a3y17lte`
+</div>
+
+<h1 align='center'>
   
+Custom ROMs for Exynos 7870 Devices
+</h1>
+
+
+
+
+<h4 align="center">
+  
+`J6lte, J5y17lte, J7y17lte, J7xelte, J7velte, on7xelte, a3y17lte`
 </h4>
 
 </h2>
 <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original.svg" align="center "width="100%" height="150">
 <br>
 <br>
+<br>
+
+> ### 	:page_with_curl: Description
+  <h4 align="left">
+  <p>
+  PT:
+  Este repositório abriga uma coleção de ROMs customizadas, compiladas e portadas para dispositivos equipados com o processador Exynos 7870. Oferecemos uma variedade de     ROMs baseadas em diferentes versões do Android (10, 11 e 12), permitindo que você personalize e otimize a experiência do seu dispositivo de acordo com suas preferências.
+  </p>
+    <br>
+  <p>
+  EN:
+  This repository houses a collection of custom ROMs, compiled and ported for devices equipped with the Exynos 7870 processor. We offer a variety of ROMs based on different Android versions (10, 11, and 12), allowing you to customize and optimize your device's experience to your preferences.</p>
+
+  </h4>
+<br>
+
+> ### :space_invader: Supported Devices
+
+```
+* Galaxy J6 2018 (j6lte)
+* Galaxy J5 2017 (J5y17lte)
+* Galaxy J7 Pro 2017 (J7y17lte)
+* Galaxy J7 2016 (J7xelte)
+* Galaxy J7 Nxt 2017 (J7velte)
+* Galaxy J7 Prime 2016 (on7xelte)
+* Galaxy A3 2017 (a3y17lte)
+```
 <br>
 
 > ### :zombie: Credits
@@ -22,6 +60,8 @@
 <br>
 <br>
 <br>
+
+> ## ROMs:
 
 > ### :green_circle: ANDROID 12
 
@@ -73,3 +113,7 @@
 
 > [!NOTE]
 > [*Click here*](https://sourceforge.net/projects/repomagno/files/Lineage-A10/Los-17.1-recovery-j6lte.img/download) to download Lineage OS Recovery to J6lte (_Opcional_)
+
+<div style="text-align: center;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
+</div>
